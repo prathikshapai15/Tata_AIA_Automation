@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="37526" started-at="2018-02-09T06:32:49Z" finished-at="2018-02-09T06:33:27Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="37526" started-at="2018-02-09T06:32:49Z" finished-at="2018-02-09T06:33:27Z">
+      <class name="testClasses.TataAIGNewPolicy">
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:testClasses.TataAIGNewPolicy@66213a0d]" name="beforeMethod" is-config="true" duration-ms="32244" started-at="2018-02-09T12:02:49Z" finished-at="2018-02-09T12:03:21Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="tc_E2E_NewPolicyFunctionality()[pri:0, instance:testClasses.TataAIGNewPolicy@66213a0d]" name="tc_E2E_NewPolicyFunctionality" duration-ms="5196" started-at="2018-02-09T12:03:21Z" finished-at="2018-02-09T12:03:27Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tc_E2E_NewPolicyFunctionality -->
+        <test-method status="PASS" signature="afterMethod()[pri:0, instance:testClasses.TataAIGNewPolicy@66213a0d]" name="afterMethod" is-config="true" duration-ms="8" started-at="2018-02-09T12:03:27Z" finished-at="2018-02-09T12:03:27Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+      </class> <!-- testClasses.TataAIGNewPolicy -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
